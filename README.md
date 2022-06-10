@@ -21,6 +21,7 @@ After cloning the repository, type "npm install i" in the terminal.
 ## Usage
 
 In terminal, type "node index.js" then follow the series of questions to generate your README.md file.
+A demonstration video: https://drive.google.com/file/d/1FScX6XuzMA4XEou9YuLYbE9hkWkL_m3Q/view?usp=sharing
 
 ## License
 
